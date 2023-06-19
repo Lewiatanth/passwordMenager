@@ -203,7 +203,7 @@ def check_app_password():
         read_password()
     else:
         print("Niepoprawne hasło!")
-
+#Wywołanie programu
 check_file()
 print("Witaj w generatorze haseł!")
 set_app_password(False)
